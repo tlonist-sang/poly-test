@@ -32,5 +32,11 @@ projects/**/pom.xml
 # clojure-lsp
 .lsp/sqlite*.db
 
+config.edn
+
 # Calva VS Code Extension
 .calva/output-window/output.calva-repl
+
+
+.clj-kondo/**
+.lsp/**
